@@ -24,7 +24,7 @@ Projects on this list must be valid and on the right track.
 <br>
  
  ## ✅ Past Hackathon Winners, Honorable Mentions, Demo Day winners, and Builders grant benefactors.
- Over 10+ Top-Notch projects, the ecosystem has produced so far...
+ Over 15+ Top-Notch projects, the ecosystem has produced so far...
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
@@ -49,8 +49,8 @@ Projects on this list must be valid and on the right track.
 
 <br>
 
-## By Track (Building for RADAR Hackathon📡).
-Over 85+ projects Competing Across Diverse Tracks.
+## By Track (Projects built for RADAR Hackathon📡).
+Over 85+ projects Competed cross Diverse Tracks.
 
 <br>
 
