@@ -28,16 +28,24 @@ Projects on this list must be valid and on the right track.
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
-|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third place Renaissance(2024)/First place Renaissance Demo day winner(2024)|
-|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|Fifth Place hyperdrive hackathon/Third place Renaissance Demo day winner(2024)|
-|SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz tests accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|Superteam Builders Grant|
+|Ribh Finance|Decentralized ecosystem for global on-chain commerce, marketplace and payments.|[Ribh](https://x.com/ribhfinance)|Payments/DeFi|4th place RADAR(2024)/2nd place Mercuryo RADAR side track/1st place RADAR Demo day winner(2024)|
+|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|3rd place Renaissance(2024)/1st place Renaissance Demo day winner(2024)|
+|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|5th Place hyperdrive hackathon/3rd place Renaissance Demo day winner(2024)|
+|SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz tests accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|SuperteamNG Builders Grant|
 |BlockRide|A mobility marketplace bringing equitable access to vehicle financing in Africa.|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
 |Mynt|Mynt allows businesses to mint NFTs for their customers based on real-world conditions.Mynt allows businesses to mint NFTs.|--------------|NFTs|cHack top project|
 |FundusAI|FundusAI is Africa's First AI-Powered Ecosystem for Diabetics.Your One Stop Home For Personalized Diabetes Care Using AI.|[FundusAI](https://x.com/FundusAI)|AI|cHack top project|
 |Aperture|An AI-powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|AI|2nd Place Hyperdrive hackathon|
-|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|DePin|Second place Renaissance Demo day winner(2024)|
-|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|Fourth place Renaissance Demo day winner(2024)|
-|StreamLink|Live video streaming platform, powered by SuperteamNG built on Solana |[StreamLink](https://x.com/use_stream)|Consumer dApps|Fifth place Renaissance Demo day winner(2024)|
+|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|DePin|2nd place Renaissance & RADAR Demo day winner(2024)|
+|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|4th place Renaissance Demo day winner(2024)|
+|StreamLink|Live video streaming platform, powered by SuperteamNG built on Solana |[StreamLink](https://x.com/use_stream)|Consumer dApps|5th place Renaissance Demo day winner(2024)|
+|Skoutwatch|Generate highlights and game insights from your sports footage|[Skoutwatch](https://x.com/skoutwatch)|Consumer dApps|OPOS Winner August 2023/3rd place RADAR Demo day winner|
+|Verxio|#1 Ads creator platform for web3 developers and brands.|[Verxio](https://x.com/verxioprotocol)|Dev toolings|3rd place Streamflow RADAR side track/4th place RADAR Demo day winner|
+|Setita|Orchestrating trust in every donation through Web3|[Setita](https://x.com/setita_)|Consumer dApps|2nd place Streamflow RADAR side track|
+|Asset Square|Buy, Sell and Trade Real World Assets.|[Asset Square](https://x.com/Assetsquare_)|Consumer dApps|5th place RADAR Demo day winner/SuperteamNG Builders Grant|
+
+
+
 
 <br>
 
