@@ -17,27 +17,27 @@ Submit a PR if your project is missing or on the wrong track.
 <br>
 Major Tracks: DePIN, DeFi, DAOs, Payments, Consumer, Gaming, Dev Tools, Infrastructure. 
 <br>
-Projects on this list must be valid, and on the right track.
+Projects on this list must be valid and on the right track.
 
 ## 🏆 Top Projects.
 
 <br>
  
- ## ✅ Past-Hackathon Winners, Honorable Mentions, Demo day winners and Builders grant benefactors.
- Over 10+ Top-Notch projects the ecosystem has produced so far...
+ ## ✅ Past Hackathon Winners, Honorable Mentions, Demo Day winners, and Builders grant benefactors.
+ Over 10+ Top-Notch projects, the ecosystem has produced so far...
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
-|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third place Renaissance(2024)/First place Demo day winner(2024)|
-|SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz test accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|SuperteamDAO Builders Grant|
+|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third place Renaissance(2024)/First place Renaissance Demo day winner(2024)|
+|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|Fifth Place hyperdrive hackathon/Third place Renaissance Demo day winner(2024)|
+|SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz tests accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|Superteam Builders Grant|
 |BlockRide|A mobility marketplace bringing equitable access to vehicle financing in Africa.|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
-|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|Fifth Place kHyperdrive hackathon/Third place Demo day winner(2024)|
-|Mynt|Mynt allows businesses to mint NFTs to their customers based on real world conditions.Mynt allows businesses to mint NFTs.|--------------|NFTs|cHack top project|
+|Mynt|Mynt allows businesses to mint NFTs for their customers based on real-world conditions.Mynt allows businesses to mint NFTs.|--------------|NFTs|cHack top project|
 |FundusAI|FundusAI is Africa's First AI-Powered Ecosystem for Diabetics.Your One Stop Home For Personalized Diabetes Care Using AI.|[FundusAI](https://x.com/FundusAI)|AI|cHack top project|
-|Aperture|An AI powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|AI|2nd Place Hyperdrive hackathon|
-|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|DePin|Second place Demo day winner(2024)|
-|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|Fourth place Demo day winner(2024)|
-|StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|Consumer dApps|Fifth place Demo day winner(2024)|
+|Aperture|An AI-powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|AI|2nd Place Hyperdrive hackathon|
+|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|DePin|Second place Renaissance Demo day winner(2024)|
+|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|Fourth place Renaissance Demo day winner(2024)|
+|StreamLink|Live video streaming platform, powered by SuperteamNG built on Solana |[StreamLink](https://x.com/use_stream)|Consumer dApps|Fifth place Renaissance Demo day winner(2024)|
 
 <br>
 
