@@ -1,12 +1,12 @@
-# 🚀 SuperteamNG🇳🇬 Solana Projects
+# 🚀 SuperteamNG🇳🇬 Products
 
 <img src="st.jpg" width="150" height="150" alt="st-logo"> <img src="sol.jpg" width="150" height="150" alt="sol-logo">
 
-## A curated compilation of SuperteamNG Solana Projects.
+## A curated compilation of SuperteamNG Solana Products.
 
-This repo is for SuperteamNG Solana Projects of all time:
+This repo is for SuperteamNG Solana Products of all time:
 
--   Under-development Projects (RADAR Hackathon).
+-   Under-development Products (RADAR Hackathon).
 -   Past-Hackathon Winners.
 -   Honorable Mentions.
 -   Demo day winners.
@@ -17,14 +17,14 @@ Submit a PR if your project is missing or on the wrong track.
 <br>
 Major Tracks: DePIN, DeFi, DAOs, Payments, Consumer, Gaming, Dev Tools, Infrastructure. 
 <br>
-Projects on this list must be valid and on the right track.
+Products on this list must be valid and on the right track.
 
-## 🏆 Top Projects.
+## 🏆 Top Products.
 
 <br>
  
  ## ✅ Past Hackathon Winners, Honorable Mentions, Demo Day winners, and Builders grant benefactors.
- Over 15+ Top-Notch projects, the ecosystem has produced so far...
+ Over 15+ Top-Notch Products, the ecosystem has produced so far...
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
@@ -49,13 +49,13 @@ Projects on this list must be valid and on the right track.
 
 <br>
 
-## By Track (Projects built for RADAR Hackathon📡).
-Over 85+ projects Competed cross Diverse Tracks.
+## By Track (Products built for RADAR Hackathon📡).
+Over 85+ Products Competed cross Diverse Tracks.
 
 <br>
 
 ## 🌐 Consumer dApps
-Projects related to leveraging the power of decentralization.
+Products related to leveraging the power of decentralization.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Herwaree|Transforming Women’s Reproductive Health with a Smart, Engaging and Personalized Companion. |[Herwaree](https://x.com/Herwaree_)|
@@ -64,7 +64,7 @@ Projects related to leveraging the power of decentralization.
 |Solcart|First escrow-powered SYP (Sell Your Property) marketplace on Solana.Buy and sell securely, shop directly from manufacturers & easily convert tokens to fiat.|[Solcart](https://x.com/solcartglobal)|
 |Setita|Orchestrating trust in every donation through Web3|[Setita](https://x.com/setita_)|
 |StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|
-|TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain projects|[TokenThrill](https://x.com/Token_Thrill)|
+|TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain Products|[TokenThrill](https://x.com/Token_Thrill)|
 |BricksFi|Tokenizing real estate for fractional ownership, liquidity, and decentralized mortgage solutions. Invest and borrow on blockchain.|[BricksFi](https://x.com/bricksfi)|
 |Psyber|Bridging Mental Health & Web3,Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
 |SolBox Music|SOLBOX is an online music streaming platform fused with the Solana Blockchain. We are all about rewards. Rewards for creators, listeners, and the ecosystem.|[SolBox Music](https://x.com/Solbox_Official)|
@@ -72,7 +72,7 @@ Projects related to leveraging the power of decentralization.
 |Crypto-Convo|Empowering seamless conferencing with PoAP Cnfts – turning every call into a rewarding experience.|[Crypto-Convo](https://x.com/CryptoConvo1)|
 |Lance_on_Sol|Building trust in freelance markets on Solana.Lancepoint is where reputation meets opportunity.|[Lance_on_Sol](https://x.com/Lancepoint1059)|
 |StreamBud|Play and Create Solana Quizes and Win USDC, or create local game trivia and get  participants to participate and win too|[StreamBud](https://x.com/chain_trivia)|
-|VELADAO|A decentralized crowdfunding platform on Solana empowering global projects with secure, transparent funding. Donate in SOL or USDC.|[VELADAO](https://x.com/velada0)|
+|VELADAO|A decentralized crowdfunding platform on Solana empowering global Products with secure, transparent funding. Donate in SOL or USDC.|[VELADAO](https://x.com/velada0)|
 |Cribins|Seamlessly Connecting You to Your Next Home.|[Cribins](https://x.com/officialcribins)|
 |Ohana|An Intelligent Accountability partner for building sustainable habits.|[Ohana](https://x.com/Ohanaonsol)|
 |Luxela Place|We are building a decentralized marketplace where fashion is made easy with crypto.|[Luxela Place](https://x.com/LuxelaPlace)|
@@ -111,7 +111,7 @@ The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can 
 <br>
 
 ## 🛠 Developer Tooling
-Projects and Tools that make Solana itself more durable and Robust.
+Products and Tools that make Solana itself more durable and Robust.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Game Pass|We Help Developers Focus on building and let us manage their players state and data.|[Game Pass](https://x.com/game_pass_)|
@@ -137,7 +137,7 @@ Projects and Tools that make Solana itself more durable and Robust.
 <br>
 
 ## 💸 Payments
-Projects related to payment processing for various use-cases.
+Products related to payment processing for various use-cases.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Solara Pay|Enhancing Companies Workflow with Instant Payroll Disbursement|[Solara Pay](https://x.com/thesolara)|
@@ -156,7 +156,7 @@ Projects related to payment processing for various use-cases.
 <br>
 
 ## 🫂 DAOs & Network States
-Projects enabling communities to form, grow and build things of value.
+Products enabling communities to form, grow and build things of value.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |DeclanWork|Your Gateway to Tech and Web3 Freelancing : We connect Web3 startups and protocols to highly skilled technical and on-technical talents|[DeclanWork](https://x.com/declanwork)|
@@ -173,7 +173,7 @@ Projects enabling communities to form, grow and build things of value.
 <br>
 
 ## ⛓ DePin
-Projects related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
+Products related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|
@@ -191,7 +191,7 @@ Projects related to leveraging DePin's vast usage and build efficient real-world
 <br>
 
 ## 💰 DeFi
-Projects related to building financial system for the world to use.
+Products related to building financial system for the world to use.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Soliq bot|Trade your favorite tokens right from whatsapp, track wallets and much more with soliq bot on solana|[Soliq bot](https://x.com/soliqbot)|
@@ -207,7 +207,7 @@ Projects related to building financial system for the world to use.
 <br>
 
 ## 🏗️ Infrastructure
-Projects and Tools that make Solana itself more durable and Robust.
+Products and Tools that make Solana itself more durable and Robust.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Ravolo Protocol|Revolutionizing gaming with cross-game NFT assets. Empowering devs, exciting players. Your achievements, your assets, your multiverse.|[Ravolo Protocol](https://x.com/useravolo)|
