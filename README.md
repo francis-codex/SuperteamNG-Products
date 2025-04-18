@@ -1,4 +1,4 @@
-# 🚀 SuperteamNG🇳🇬 Products
+# 🇳🇬 SuperteamNG Products
 
 <img src="st.jpg" width="150" height="150" alt="st-logo"> <img src="sol.jpg" width="150" height="150" alt="sol-logo">
 
